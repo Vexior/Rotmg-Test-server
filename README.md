@@ -1,0 +1,1 @@
+# Rotmg Test server
